@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /saluto-genese
+exclude: ['README.md']
